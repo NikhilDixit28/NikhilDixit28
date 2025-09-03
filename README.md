@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NikhilDixit28
-- 👀 I’m interested in Cloud Computing, CI/CD, Automation, Python.
-- 🌱 I’m currently learning CI/CD.
 - 📫 How to reach me - Email: nikhildixit28@gmail.com.
 
 <!---
